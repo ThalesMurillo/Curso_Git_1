@@ -1,7 +1,7 @@
-# E-commerce Empresa X
+# Repositório criado para testes
 
-Vamos criar um e-commerce, para empresa X e bla bla bla
+Este é um repositório voltado para **teste de aprendizado do GitHub**
 
 ## Funcionalidade:
 
-Checkout, Tela de produto, Catálogo...
+Testar, verificar funcionalidades e aprender...
